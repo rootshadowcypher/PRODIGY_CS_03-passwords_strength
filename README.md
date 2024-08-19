@@ -39,11 +39,6 @@ To run the Password Complexity Checker, follow these steps:
     cd password-complexity-checker
     ```
 
-3. Install any required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 To use the Password Complexity Checker:
